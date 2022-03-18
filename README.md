@@ -1,3 +1,5 @@
+# Geric Restaruant Website
+Yapmış olduğum çalışmada referans aldığım videoya [buradan ulaşabilirsiniz](https://www.youtube.com/watch?v=4oV65GVVits).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
